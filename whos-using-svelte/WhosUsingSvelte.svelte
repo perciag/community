@@ -204,6 +204,7 @@
 	<a target="_blank" rel="noopener" href="https://turgensec.com"><img src="organisations/TurgenSec.png" alt="TurgenSec" loading="lazy"/></a>
 	<a target="_blank" rel="noopener" href="https://yatagarasu.vercel.app/"><img src="https://yt3.ggpht.com/a/AATXAJy5ifhPq1BR87Hhh3ltx5swo5tn_uylAmsL5ZAQMg=s900-c-k-c0xffffffff-no-rj-mo" alt="Yatagarasu logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://oliveoilseason.com"><img src="https://static.oliveoilseason.com/g/images/logo/2020/191219_OOS_Logo__120w.png" alt="Olive Oil Season logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://crius.com.br"><img src="https://firebasestorage.googleapis.com/v0/b/fir-gazoo-api.appspot.com/o/crius%2Fimages%2Fpersons%2Fd9f64ee0-7b0d-11e9-b4e4-7d610630979c?alt=media&token=65f44cd6-e0ec-46f8-b6d4-ac6a5f2d5541" alt="CRIUS Tecnologia" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://github.com/sveltejs/community/blob/master/whos-using-svelte/WhosUsingSvelte.svelte" class="add-yourself"><span>+ your company?</span></a>
 
 
